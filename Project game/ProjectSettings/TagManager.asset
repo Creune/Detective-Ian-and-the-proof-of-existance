@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GoalNode
+  - RoomTrigger
+  - Suspect
+  - KilledSuspect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Exclude
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Highlight
+    uniqueID: 1529186069
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: insidewall
+    uniqueID: 3641199775
+    locked: 0
+  - name: outerwall
+    uniqueID: 1211240217
+    locked: 0
